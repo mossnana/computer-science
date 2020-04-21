@@ -110,22 +110,19 @@ just remember that you can't purchase success!
 
 ## Prerequisites
 
-- [Core CS](#core-cs) assumes the student has already taken [high school math](https://www.khanacademy.org/math/high-school-math), including algebra, geometry, and pre-calculus.
-- [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
-and is knowledgeable enough now to decide which electives to take.
+- [Core CS](#core-cs) กลุ่มนี้สำหรับคนที่เคยผ่านคณิตศาสตร์ ม.ปลายมาแล้ว [คณิตศาสตร์ ม.ปลาย](https://www.khanacademy.org/math/high-school-math), including พีชคณิต, ตรีโกณ, and แคลคูลัสเบื้องต้น. จำเป็นต้องลงทุกคอร์ส
+- [Advanced CS](#advanced-cs) กลุ่มนี้สำหรับคนที่เรียน [Core CS](#core-cs) หมดทุกคอร์สแล้ว ซึ่งกลุ่มนี้ไม่จำเป็นต้องลงทุกคอร์ส
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
 ## Intro CS
 
 ### Introduction to Programming
 
-If you've never written a for-loop, or don't know what a string is in programming, start here. Choose one of the two course series below. Either one will give you an introduction to programming that assumes no prior knowledge.
+ถ้าไม่เคยเขียนโปรแกรมมาก่อน ไม่รู้พื้นฐานการเขียนโปรแกรมเช่น for-loop ใช้ยังไง, String ในการเขียนโปรแกรมคืออะไรให้เริ่มที่คอร์สนี้ เลือกมาหนึ่งคอร์สจากด้านล่างนี้
 
-Trying to decide between them?
+_Python for Everyone_ สอนด้วยภาษาคอมพิวเตอร์ที่ค่อนข้างเป็นที่นิยมในปัจจุบัน (Javascript, Python, etc.) เน้นลงมือทำ มีการทำ APIs เชื่อมต่อกับฐานข้อมูล คอร์สนี้ได้เห็นหลายรูปแบบที่โปรแกรมเมอร์ใช้ในการพัฒนาแอปพลิเคชัน
 
-_Python for Everyone_ will introduce you to a popular language and will quickly move to practical programming tasks - using web APIs and databases. This will give you a taste of what many professional developers do.
-
-_Fundamentals of Computing_ will also start by introducing you to Python. It then moves on to give an introduction to academic Computer Science topics, like sorting and recursion. This will give you a taste of what the following courses will be like. (Students who complete _Fundamentals of Computing_ can skip Intro to Computer Science and begin Core CS.)
+_Fundamentals of Computing_ สอนด้วยภาษาไพธอน เนื้อหาจะเกริ่นนำจากหลักสูตรวิทยาการคอมพิวเตอร์ เช่น การเรียงลำดับและการทวนซ้ำ ใครที่เรียนคอร์สนี้แล้วสามารถข้ามหัวข้อ Intro to Computer Science และ begin Core CS. ไปได้เลย
 
 **Topics covered**:
 `simple programs`
@@ -133,12 +130,12 @@ _Fundamentals of Computing_ will also start by introducing you to Python. It the
 
 Courses | Effort | Prerequisites
 :-- | :--: | :--:
-[Python for Everyone](https://www.coursera.org/specializations/python) ([alt](https://www.py4e.com/)) | 58 hours | none
-[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | 138 hours | high school mathematics
+[Python for Everyone](https://www.coursera.org/specializations/python) ([alt](https://www.py4e.com/)) | 58 ชั่วโมง | none
+[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | 138 ชั่วโมง | คณิตศาสตร์ ม.ปลาย
 
 ### Introduction to Computer Science
 
-This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
+หัวข้อนี้เป็นการเกริ่นนำ วิทยาการคอมพิวเตอร์ การเรียนคอร์สนี้จะช่วยให้เราประเมินได้ว่า เราชอบในวิทยาการคอมพิวเตอร์หรือไม่ ?
 
 **Topics covered**:
 `computation`
@@ -152,7 +149,7 @@ Courses | Duration | Effort | Prerequisites
 
 ## Core CS
 
-All coursework under Core CS is **required**, unless otherwise indicated.
+ในหัวข้อ Core CS นี้จำเป็นต้องเรียนทุกคอร์ส
 
 ### Core programming
 **Topics covered**:
@@ -186,7 +183,7 @@ Courses | Duration | Effort | Prerequisites
 - **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 
 ### Math Electives
-**Students must choose one of the following topics**: calculus, linear algebra, logic, or probability.
+**ในแต่ละหัวข้อ ให้เลือกมาอย่างละหนึ่งคอร์ส
 
 #### Calculus
 Courses | Duration | Effort | Prerequisites
@@ -212,7 +209,7 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | 18 weeks | 12 hours/week | Multivariable Calculus
 
 ### Core Math
-In addition to their math elective, students must complete the following course on discrete mathematics.
+คอร์สนี้บังคับเรียน
 
 **Topics covered**:
 `discrete mathematics`
